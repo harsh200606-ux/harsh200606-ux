@@ -97,9 +97,7 @@ Planned project to classify known underwater mine types using side-scan sonar im
 ⭐ *Build. Learn. Experiment. Repeat.*
 
 ---
-## 🐍 My Snake Animation
 
-![Custom Snake](./custom-snake.svg)
 
 ## 🐍 My GitHub Contributions
 
