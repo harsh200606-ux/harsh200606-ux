@@ -77,11 +77,7 @@ Planned project to classify known underwater mine types using side-scan sonar im
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
 
-![Snake animation](https://raw.githubusercontent.com/harsh200606-ux/harsh200606-ux/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ## 🎯 Currently Learning
 
@@ -102,6 +98,6 @@ Planned project to classify known underwater mine types using side-scan sonar im
 
 ---
 
-## 🐍 Watch my contributions get eaten!
+## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/harsh200606-ux/harsh200606-ux/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/harsh200606-ux/harsh200606-ux/output/github-contribution-grid-snake.svg)
